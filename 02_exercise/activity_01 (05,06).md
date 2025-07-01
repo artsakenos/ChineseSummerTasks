@@ -1,5 +1,3 @@
-Certamente! Ecco la trascrizione e la traduzione delle attività richieste, formattate come da te indicato.
-
 # Attività 01 (Italiano) (Pagine 5-6)
 
 Le felici vacanze estive sono arrivate. Durante le vacanze, come organizzi la tua vita di ogni giorno?
