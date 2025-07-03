@@ -11,8 +11,11 @@
 3.  **Output:**
     *   Crea un file `.md` separato per ogni singola attività nella cartella `02_exercise/`.
     *   **Nomenclatura File:** Segui la convenzione `activity_XX (YY,ZZ).md`:
-        *   `XX`: Numero progressivo dell'attività, continuando la sequenza esistente nella cartella.
+        *   `XX`: Numero progressivo dell'attività, continuando la sequenza esistente.
         *   `YY,ZZ`: Numeri della prima e dell'ultima pagina che contengono l'attività. Se l'attività è su una sola pagina, usa solo `(YY)`.
-    *   **Contenuto del File:** All'interno di ogni file, inserisci due sezioni principali, ciascuna in un blocco di codice Markdown per facilitare il copia-incolla:
-        *   `**Trascrizione Cinese**`: Riporta il testo originale cinese, mantenendo la formattazione (tabelle, elenchi, ecc.).
-        *   `**Traduzione Italiana**`: Fornisci la traduzione italiana corrispondente.
+    *   **Contenuto del File:** Struttura il file ESATTAMENTE come segue, basandoti sugli esempi esistenti:
+        1.  Titolo per la traduzione italiana: `# Attività XX (Italiano) (Pagina YY)` o `(Pagine YY,ZZ)`.
+        2.  Testo della traduzione italiana.
+        3.  Titolo per la trascrizione cinese: `# 活动 XX (中文) (页 YY)` o `(页 YY,ZZ)`.
+        4.  Testo della trascrizione cinese.
+    *   **Importante:** NON usare blocchi di codice (```markdown) per racchiudere il contenuto. La formattazione Markdown (tabelle, grassetto, ecc.) deve essere renderizzata direttamente.
